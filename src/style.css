@@ -1,0 +1,30 @@
+:root {
+  font-family: sans-serif;
+  color-scheme: light dark;
+  color: hsl(0, 0%, 70%);
+  background-color: #292c2f;
+}
+
+body {
+  margin: 0;
+  padding:0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 3em;
+  line-height: 1.1;
+  margin-top:3rem;
+}
+
+#app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.copyright { position: fixed; bottom:1rem; right:1rem;}
+.copyright a {padding: .3rem; opacity: .7; transition: all .3s;}
+.copyright a:hover {opacity: 1}
