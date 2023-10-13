@@ -2,6 +2,8 @@
 
 Calculates the reading time of the article and displays
 
+#### DEMO https://vue-article-reading-time.netlify.app
+
 ![Vue reading time component](src/assets/ss.png)
 
 App.vue
@@ -18,10 +20,18 @@ App.vue
 
 article-read-time.vue component
 
-```html
+```js
 <template>
   <small v-if="readTime >= 1">
     {{ readTime }} min. read
   </small>
 </template>
+
+//vue instance method
+methods: {
+    calculatedReadTime() {
+      // average adult reading speed 238 words per minute
+      this.readTime = Math.round(this.$parent.$refs[this.element].innerText.split(" ").length / 238)
+    }
+  }
 ```
