@@ -1,10 +1,44 @@
 {
-  "name": "article-read-time",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "vue-reading-time",
+  "description": "vue-reading-time provides an estimate of how long an article or blog will take for the average adult to read.",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "vue",
+    "vuejs",
+    "reading",
+    "reading-time",
+    "time",
+    "es6",
+    "medium",
+    "blog",
+    "estimator",
+    "vue3",
+    "read-time"
+  ],
+  "main": "./dist/my-lib.umd.js",
+  "module": "./dist/my-lib.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/my-lib.es.js",
+      "require": "./dist/my-lib.umd.js"
+    }
+  },
+  "private": false,
+  "version": "0.0.1",
+  "homepage": "https://github.com/BoraKucukkara/vue-reading-time",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BoraKucukkara/vue-reading-time"
+  },
+  "author": {
+    "name": "Bora Kucukkara",
+    "email": "borakucukkara.com@gmail.com",
+    "url": "https://www.borakucukkara.com"
+  },
   "scripts": {
-    "dev": "vite --host",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },

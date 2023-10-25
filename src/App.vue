@@ -2,13 +2,8 @@
   
   <article ref="article-4356">
     <h1>Excepteur sint occaecat</h1>
-    <article-read-time element="article-4356"></article-read-time>
+    <vue-reading-time element="article-4356"></vue-reading-time>
     <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nibh augue. Proin suscipit velit neque, et sodales enim blandit vel. </h2>
-    <p>Vestibulum nunc tellus, laoreet imperdiet condimentum a, tempor vel lacus. Etiam auctor purus egestas tincidunt placerat. Ut feugiat dignissim dolor vitae finibus. Ut sollicitudin enim justo, id dignissim nisl volutpat a. Pellentesque mollis a mi in commodo. Morbi gravida, orci dignissim gravida ultrices, neque est pretium felis, ut gravida mauris leo at odio. Aliquam sollicitudin neque et erat tempor, at lobortis erat imperdiet. Suspendisse congue diam vel quam vestibulum bibendum. Etiam congue varius iaculis. Maecenas justo velit, lacinia ut accumsan suscipit, fringilla ac lorem.</p>
-    <p>Sed ultricies sem vel dui efficitur mollis. Vestibulum volutpat tristique mollis. Aliquam nec dictum sapien, et congue enim. Nunc ultricies nibh congue, tincidunt sem a, finibus augue. Curabitur vitae accumsan nibh, vitae aliquam orci. Curabitur aliquet nunc ipsum, quis mollis mauris commodo at. Phasellus eu elementum ligula. Maecenas tincidunt fermentum sapien, eu luctus lectus ornare sed.</p>
-    <p>Nam lectus tellus, aliquet quis cursus non, aliquam pellentesque quam. Duis sit amet est tincidunt, posuere ex vitae, dignissim lorem. Maecenas a efficitur nibh, rutrum venenatis nulla. Morbi ut felis gravida, tristique mi vitae, ornare sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque lacinia interdum lorem sit amet gravida. Morbi et dignissim nunc. Sed quis molestie sem. Donec eu consequat ante. Nunc gravida ligula ac risus pretium tempus.</p>
-    <p>Ut iaculis vulputate nisi, eu porta velit imperdiet nec. Nunc a feugiat erat. Sed venenatis consequat turpis quis semper. Sed vitae justo sed nibh pulvinar pretium. Phasellus efficitur eleifend pretium. Mauris in auctor felis, a iaculis odio. Sed libero purus, dapibus vitae ornare vel, bibendum sit amet magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas lacus diam, semper eget placerat sit amet, faucibus eu neque. Suspendisse suscipit non nisl nec feugiat. Donec lacus justo, gravida sit amet magna eget, posuere vulputate mauris. Sed rhoncus lacus pretium elit porttitor, nec ullamcorper odio laoreet.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nibh augue. Proin suscipit velit neque, et sodales enim blandit vel. Praesent id nunc finibus, eleifend turpis eget, laoreet dui. Mauris aliquam venenatis lobortis. Ut luctus mi vel turpis faucibus suscipit. Cras a elit in lacus tincidunt maximus. Suspendisse rutrum tempus est, a eleifend sapien mattis nec. Mauris in ultrices mi. Donec malesuada nulla vel pulvinar consectetur.</p>
     <p>Vestibulum nunc tellus, laoreet imperdiet condimentum a, tempor vel lacus. Etiam auctor purus egestas tincidunt placerat. Ut feugiat dignissim dolor vitae finibus. Ut sollicitudin enim justo, id dignissim nisl volutpat a. Pellentesque mollis a mi in commodo. Morbi gravida, orci dignissim gravida ultrices, neque est pretium felis, ut gravida mauris leo at odio. Aliquam sollicitudin neque et erat tempor, at lobortis erat imperdiet. Suspendisse congue diam vel quam vestibulum bibendum. Etiam congue varius iaculis. Maecenas justo velit, lacinia ut accumsan suscipit, fringilla ac lorem.</p>
     <p>Sed ultricies sem vel dui efficitur mollis. Vestibulum volutpat tristique mollis. Aliquam nec dictum sapien, et congue enim. Nunc ultricies nibh congue, tincidunt sem a, finibus augue. Curabitur vitae accumsan nibh, vitae aliquam orci. Curabitur aliquet nunc ipsum, quis mollis mauris commodo at. Phasellus eu elementum ligula. Maecenas tincidunt fermentum sapien, eu luctus lectus ornare sed.</p>
     <p>Nam lectus tellus, aliquet quis cursus non, aliquam pellentesque quam. Duis sit amet est tincidunt, posuere ex vitae, dignissim lorem. Maecenas a efficitur nibh, rutrum venenatis nulla. Morbi ut felis gravida, tristique mi vitae, ornare sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque lacinia interdum lorem sit amet gravida. Morbi et dignissim nunc. Sed quis molestie sem. Donec eu consequat ante. Nunc gravida ligula ac risus pretium tempus.</p>
@@ -17,7 +12,7 @@
 
   <article ref="article-2784">
     <h1>Aenean at nibh augue.</h1>
-    <article-read-time element="article-2784"></article-read-time>
+    <vue-reading-time element="article-2784"></vue-reading-time>
     <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nibh augue. Proin suscipit velit neque, et sodales enim blandit vel. Praesent id nunc finibus, eleifend turpis eget, laoreet dui. </h2>
     <p>Vestibulum nunc tellus, laoreet imperdiet condimentum a, tempor vel lacus. Etiam auctor purus egestas tincidunt placerat. Ut feugiat dignissim dolor vitae finibus. Ut sollicitudin enim justo, id dignissim nisl volutpat a. Pellentesque mollis a mi in commodo. Morbi gravida, orci dignissim gravida ultrices, neque est pretium felis, ut gravida mauris leo at odio. Aliquam sollicitudin neque et erat tempor, at lobortis erat imperdiet. Suspendisse congue diam vel quam vestibulum bibendum. Etiam congue varius iaculis. Maecenas justo velit, lacinia ut accumsan suscipit, fringilla ac lorem.</p>
     <p>Sed ultricies sem vel dui efficitur mollis. Vestibulum volutpat tristique mollis. Aliquam nec dictum sapien, et congue enim. Nunc ultricies nibh congue, tincidunt sem a, finibus augue. Curabitur vitae accumsan nibh, vitae aliquam orci. Curabitur aliquet nunc ipsum, quis mollis mauris commodo at. Phasellus eu elementum ligula. Maecenas tincidunt fermentum sapien, eu luctus lectus ornare sed.</p>
@@ -53,13 +48,39 @@
   </div>
 </template>
 
-<script>
-import articleReadTime from './components/article-read-time.vue';
-export default {
-  components: {
-    articleReadTime
-  }
-}
+<script setup>
+import VueReadingTime from './components/VueReadingTime.vue';
+
 </script>
 <style>
+:root {
+  font-family: sans-serif;
+  color-scheme: light dark;
+  color: hsl(0, 0%, 70%);
+  background-color: #292c2f;
+}
+
+body {
+  margin: 0;
+  padding:0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 3em;
+  line-height: 1.1;
+  margin-top:3rem;
+}
+
+#app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.copyright { position: fixed; bottom:1rem; right:1rem;}
+.copyright a {padding: .3rem; opacity: .7; transition: all .3s;}
+.copyright a:hover {opacity: 1}
 </style>

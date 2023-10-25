@@ -1,0 +1,1 @@
+export { default as VueReadingTime } from './VueReadingTime.vue';
