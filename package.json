@@ -21,8 +21,8 @@
   "module": "./dist/my-lib.es.js",
   "exports": {
     ".": {
-      "import": "./dist/my-lib.es.js",
-      "require": "./dist/my-lib.umd.js"
+      "import": "./dist/package-lib.es.js",
+      "require": "./dist/package-lib.umd.js"
     }
   },
   "private": false,
