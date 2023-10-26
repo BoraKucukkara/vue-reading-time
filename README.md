@@ -7,11 +7,9 @@ Install
 ```js
 npm install vue-reading-time
 ```
-```js
-yarn add vue-reading-time
-```
 
-#### DEMO https://vue-article-reading-time.netlify.app
+
+#### DEMO https://vue-reading-time.netlify.app
 #### REPO https://github.com/BoraKucukkara/vue-reading-time
 
 #
@@ -45,6 +43,14 @@ Style
 
 ```css
 You can style component with the .vue-reading-time class
+```
+or use your own class
+```html
+<vue-reading-time element="article-ref" class="my-class" />
+```
+or inline styles
+```html
+<vue-reading-time element="article-ref" style="color:red" />
 ```
 
 https://github.com/BoraKucukkara

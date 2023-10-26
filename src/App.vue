@@ -1,15 +1,5 @@
 <template>
-  
-  <article ref="article-4356">
-    <h1>Excepteur sint occaecat</h1>
-    <vue-reading-time element="article-4356"></vue-reading-time>
-    <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nibh augue. Proin suscipit velit neque, et sodales enim blandit vel. </h2>
-    <p>Vestibulum nunc tellus, laoreet imperdiet condimentum a, tempor vel lacus. Etiam auctor purus egestas tincidunt placerat. Ut feugiat dignissim dolor vitae finibus. Ut sollicitudin enim justo, id dignissim nisl volutpat a. Pellentesque mollis a mi in commodo. Morbi gravida, orci dignissim gravida ultrices, neque est pretium felis, ut gravida mauris leo at odio. Aliquam sollicitudin neque et erat tempor, at lobortis erat imperdiet. Suspendisse congue diam vel quam vestibulum bibendum. Etiam congue varius iaculis. Maecenas justo velit, lacinia ut accumsan suscipit, fringilla ac lorem.</p>
-    <p>Sed ultricies sem vel dui efficitur mollis. Vestibulum volutpat tristique mollis. Aliquam nec dictum sapien, et congue enim. Nunc ultricies nibh congue, tincidunt sem a, finibus augue. Curabitur vitae accumsan nibh, vitae aliquam orci. Curabitur aliquet nunc ipsum, quis mollis mauris commodo at. Phasellus eu elementum ligula. Maecenas tincidunt fermentum sapien, eu luctus lectus ornare sed.</p>
-    <p>Nam lectus tellus, aliquet quis cursus non, aliquam pellentesque quam. Duis sit amet est tincidunt, posuere ex vitae, dignissim lorem. Maecenas a efficitur nibh, rutrum venenatis nulla. Morbi ut felis gravida, tristique mi vitae, ornare sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque lacinia interdum lorem sit amet gravida. Morbi et dignissim nunc. Sed quis molestie sem. Donec eu consequat ante. Nunc gravida ligula ac risus pretium tempus.</p>
-    <p>Ut iaculis vulputate nisi, eu porta velit imperdiet nec. Nunc a feugiat erat. Sed venenatis consequat turpis quis semper. Sed vitae justo sed nibh pulvinar pretium. Phasellus efficitur eleifend pretium. Mauris in auctor felis, a iaculis odio. Sed libero purus, dapibus vitae ornare vel, bibendum sit amet magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas lacus diam, semper eget placerat sit amet, faucibus eu neque. Suspendisse suscipit non nisl nec feugiat. Donec lacus justo, gravida sit amet magna eget, posuere vulputate mauris. Sed rhoncus lacus pretium elit porttitor, nec ullamcorper odio laoreet.</p>
-  </article>
-
+  <vue-reading-time element="article-4356"></vue-reading-time>
   <article ref="article-2784">
     <h1>Aenean at nibh augue.</h1>
     <vue-reading-time element="article-2784"></vue-reading-time>
@@ -31,7 +21,6 @@
     <p>Sed ultricies sem vel dui efficitur mollis. Vestibulum volutpat tristique mollis. Aliquam nec dictum sapien, et congue enim. Nunc ultricies nibh congue, tincidunt sem a, finibus augue. Curabitur vitae accumsan nibh, vitae aliquam orci. Curabitur aliquet nunc ipsum, quis mollis mauris commodo at. Phasellus eu elementum ligula. Maecenas tincidunt fermentum sapien, eu luctus lectus ornare sed.</p>
     <p>Nam lectus tellus, aliquet quis cursus non, aliquam pellentesque quam. Duis sit amet est tincidunt, posuere ex vitae, dignissim lorem. Maecenas a efficitur nibh, rutrum venenatis nulla. Morbi ut felis gravida, tristique mi vitae, ornare sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque lacinia interdum lorem sit amet gravida. Morbi et dignissim nunc. Sed quis molestie sem. Donec eu consequat ante. Nunc gravida ligula ac risus pretium tempus.</p>
     <p>Ut iaculis vulputate nisi, eu porta velit imperdiet nec. Nunc a feugiat erat. Sed venenatis consequat turpis quis semper. Sed vitae justo sed nibh pulvinar pretium. Phasellus efficitur eleifend pretium. Mauris in auctor felis, a iaculis odio. Sed libero purus, dapibus vitae ornare vel, bibendum sit amet magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas lacus diam, semper eget placerat sit amet, faucibus eu neque. Suspendisse suscipit non nisl nec feugiat. Donec lacus justo, gravida sit amet magna eget, posuere vulputate mauris. Sed rhoncus lacus pretium elit porttitor, nec ullamcorper odio laoreet.</p>
-    
   </article>
   
 
