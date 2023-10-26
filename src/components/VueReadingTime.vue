@@ -33,7 +33,6 @@
               } else {
                   this.readingTime=0
               }
-              console.log(wordCount)
             } else {
                 this.err = "ref not found"
             }
