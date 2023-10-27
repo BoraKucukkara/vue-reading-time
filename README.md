@@ -52,5 +52,3 @@ or inline styles
 ```html
 <vue-reading-time element="article-ref" style="color:red" />
 ```
-
-https://github.com/BoraKucukkara
